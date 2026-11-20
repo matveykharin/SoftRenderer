@@ -1,0 +1,18 @@
+# Служебные папки и файлы Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.ipch
+
+# Сборка CMake / Linux
+build/
+renderer
+
+# Результаты рендера (картинки для README лежат в папке images/)
+output.tga
+output.bmp
